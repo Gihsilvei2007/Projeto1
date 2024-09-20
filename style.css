@@ -1,18 +1,19 @@
 body {
-    color: rgb(48, 248, 8);
-    background: black;
+    color: rgb(242, 247, 241);
+    background: rgb(233, 4, 4);
     margin: 0px;
+    font-family: "Teko", sans-serif;
 }
 
 header {
     border-bottom: solid 2xp rgb(137, 221, 12);
     padding: 20xp;
     font-size: 32px;
-    color: rgb(48, 248, 8)
+    color: rgb(250, 241, 245)
 }
 
 section {
-    background:rgb(137, 221, 12);
+    background:rgb(214, 3, 3);
     padding-bottom: 80xp;
     padding-top: 80xp;
     display: flex;
@@ -25,4 +26,12 @@ section {
 
 div{
     margin-right: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
